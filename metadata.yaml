@@ -1,0 +1,37 @@
+_repo: Begijnhof-sproken_42815
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42815-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Thiry, Antoon Frans
+    birthdate: 1888
+    deathdate: 1954
+    gutenberg_agent_id: '41869'
+    url: http://www.gutenberg.org/2009/agents/41869
+  - agent_name: Timmermans, Felix
+    alias: Timmermans, Felix Maximiliaan Leopold
+    birthdate: 1886
+    deathdate: 1947
+    gutenberg_agent_id: '3951'
+    url: http://www.gutenberg.org/2009/agents/3951
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Timmermans
+description: Illustrated by Timmermans.
+gutenberg_issued: '2013-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42815'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction'
+tableOfContents: Binnenleiding -- De Waterheiligen -- Het Sacrificie van Zuster Wivina
+  -- De Ivoren Fluit -- De Aankondiging of de Strijd tusschen Elias en den Antikrist
+  -- "Ecce Homo" en het bange Portieresken -- Van Zuster Kathelijne en 't Lievevrouwken
+  -- Het Fonteintje -- Buitenleiding.
+title: Begijnhof-sproken
+url: http://www.gutenberg.org/ebooks/42815
